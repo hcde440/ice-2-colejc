@@ -18,7 +18,7 @@
 // edit the config.h tab and enter your Adafruit IO credentials  X
 // and any additional configuration needed for WiFi, cellular,  X
 // or ethernet clients.
-#include "config.h"0
+#include "config.h"0 // Did this compile with the 0 here?
 
 
 /************************ Example Starts Here *******************************/
